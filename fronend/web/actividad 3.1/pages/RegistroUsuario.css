@@ -1,0 +1,38 @@
+/* RegistroUsuario.css */
+
+.registro-usuario-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .registro-usuario-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .registro-usuario-container form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .registro-usuario-container form input,
+  .registro-usuario-container form select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .registro-usuario-container form button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
